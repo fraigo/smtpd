@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0 || ^8.0",
         "zendframework/zend-mail": "^2.3",
         "symfony/options-resolver": "^3.3",
         "psr/log": "^1.0",
